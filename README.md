@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ExpressJs,MongoDB**
 
-- 👨‍💻 All of my projects are available at [portfolio-beta-liart-56.vercel.app](portfolio-beta-liart-56.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-beta-liart-56.vercel.app](https://portfolio-beta-liart-56.vercel.app/)
 
 - 📫 How to reach me **debashispani61@gmail.com**
 
