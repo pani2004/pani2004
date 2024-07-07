@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **debashispani61@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/0aaa6c788a67ee67/EbLzXwJpsnpMix-7iutx5jEBPKdTUr6jSvXu7DTQrMy_gg?e=TdscWg](https://1drv.ms/b/c/0aaa6c788a67ee67/EbLzXwJpsnpMix-7iutx5jEBPKdTUr6jSvXu7DTQrMy_gg?e=TdscWg)
+- 📄 Know about my experiences [https://1drv.ms/b/c/0aaa6c788a67ee67/EbLzXwJpsnpMix-7iutx5jEBPKdTUr6jSvXu7DTQrMy_gg?e=TdscWg](https://1drv.ms/b/c/0aaa6c788a67ee67/EUBzyEY2smxEhC3jIfuHMwABYx0PUlAT51Tt4XlW4jyA9A?e=ZuUfGg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
