@@ -9,15 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/DebashisPani3" target="blank"><img src="https://img.shields.io/twitter/follow/debashispani?logo=twitter&style=for-the-badge" alt="debashispani" /></a> </p>
 
-- 🔭 I’m currently working on **GSSOC**
-
-- 🌱 I’m currently learning **ExpressJs,MongoDB**
+- 🔭 I’m currently working at **Remodel Ai** as an Intern
 
 - 👨‍💻 All of my projects are available at [portfolio-beta-liart-56.vercel.app](https://portfolio-beta-liart-56.vercel.app/)
 
 - 📫 How to reach me **debashispani61@gmail.com**
 
-- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/11cKo68YZ1MWFH4EbUtYZsmBGzDej_k9-/view?usp=sharing)
+- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/1qFH_hGxQZV2YsEw0UDQGn5xe7vrby7AD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
